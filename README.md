@@ -1,4 +1,6 @@
 ![Venom Header](https://capsule-render.vercel.app/api?type=venom&height=200&text=hiya,%20im%20mr%20blob!&fontSize=70&color=0:1A1A1A,50:808080,100:FFFFFF&stroke=ffffff&strokeWidth=2&fontFamily=silkscreen&animation=twinkling)
+<img src="readme.gif" width="100%" style="border-radius: 12px;" />
+
 
 
 ## projects i own/help with
