@@ -1,33 +1,42 @@
+<div align="center">
+  <div style="border-radius: 120px; overflow: hidden; height: 200px; width: 100%;">
+    <img src="readme.gif" style="width: 100%; height: 400px; object-fit: cover; object-position: bottom;" />
+  </div>
+</div>
+
 ![Venom Header](https://capsule-render.vercel.app/api?type=venom&height=200&text=hiya,%20im%20mr%20blob!&fontSize=70&color=0:1A1A1A,50:808080,100:FFFFFF&stroke=ffffff&strokeWidth=2&fontFamily=silkscreen&animation=twinkling)
-<img src="readme.gif" width="100%" style="border-radius: 12px;" />
 
-
+<div align="center">
 
 ## projects i own/help with
-- breeze (coming soon)
-- [null](https://null.freebuff.app/) (owner)
-- [eaglerhub](https://github.com/mr-blobbb/) (owner)
-- [the cave](https://cave.funforeveryone-noblokplz.sillylittleblob.app) (shut down)
+* breeze (coming soon)
+* [null](https://null.freebuff.app/) (owner)
+* [eaglerhub](https://github.com/mr-blobbb/) (owner)
+* [the cave](https://cave.funforeveryone-noblokplz.sillylittleblob.app) (shut down)
 
 ## apis i use for my site
-- [x8rr/music](https://github.com/x8rr/music)
-- [x8rr/stratus-api](https://github.com/x8rr/stratus-api)
-- [x8rr/sapphire](https://github.com/x8rr/sapphire)
-- [gmshelf](https://github.com/gmshelf)
+* [x8rr/music](https://github.com/x8rr/music)
+* [x8rr/stratus-api](https://github.com/x8rr/stratus-api)
+* [x8rr/sapphire](https://github.com/x8rr/sapphire)
+* [gmshelf](https://github.com/gmshelf)
 
 ## stuff im interested in
-- SPACE!!!
-  - Favorite planet: Saturn
-  - Favorite moon: ours :P
-  - where the aliens at...
+* SPACE!!!
+  * Favorite planet: Saturn
+  * Favorite moon: ours :P
+* Minecraft Building
+* Minecraft PvP
+* Video Editing
+* Gaming
+* Playing my clarinet!
 
 ## my favorite stuff
-- porting games to the web
-- playing elytra-rocket-mace pvp (i hate wemmbu wannabes)
-- my friends and family ♥️
-- my bird ♥️
-- music
-- SPACE
+* porting games to the web
+* playing elytra-rocket-mace pvp (i hate wemmbu wannabes)
+* my friends and family ♥️
+* my bird ♥️
+* music
+* SPACE
 
 ## me ♥️
 
