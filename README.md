@@ -4,9 +4,9 @@
   </div>
 </div>
 
-![Venom Header](https://capsule-render.vercel.app/api?type=venom&height=200&text=hiya,%20im%20mr%20blob!&fontSize=70&color=0:1A1A1A,50:808080,100:FFFFFF&stroke=ffffff&strokeWidth=2&fontFamily=silkscreen&animation=twinkling)
-
 <div align="center">
+
+![Venom Header](https://capsule-render.vercel.app/api?type=venom&height=200&text=hiya,%20im%20mr%20blob!&fontSize=70&color=0:1A1A1A,50:808080,100:FFFFFF&stroke=ffffff&strokeWidth=2&fontFamily=silkscreen&animation=twinkling)
 
 ## projects i own/help with
 * breeze (coming soon)
