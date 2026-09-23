@@ -9,10 +9,10 @@
 ![Venom Header](https://capsule-render.vercel.app/api?type=venom&height=200&text=hiya,%20im%20mr%20blob!&fontSize=70&color=0:1A1A1A,50:808080,100:FFFFFF&stroke=ffffff&strokeWidth=2&fontFamily=silkscreen&animation=twinkling)
 
 ## projects i own/help with
-* breeze (coming soon)
+* breezerod ([coming soon](https://github.com/mr-blobbb/breezerod))
 * [null](https://null.freebuff.app/) (owner)
-* [eaglerhub](https://github.com/mr-blobbb/) (owner)
-* [the cave](https://cave.funforeveryone-noblokplz.sillylittleblob.app) (shut down)
+* [eaglerhub](https://github.com/mr-blobbb/eaglerhub) (owner)
+* [the cave](https://cave.funforeveryone-noblokplz.sillylittleblob.app) (shut down in 2024)
 
 ## apis i use for my site
 * [x8rr/music](https://github.com/x8rr/music)
